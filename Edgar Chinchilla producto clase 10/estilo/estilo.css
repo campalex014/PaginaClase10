@@ -1,0 +1,148 @@
+cuerpo {
+    color : # 40514E ;
+    margen : 0 ;
+    alinear texto : centro;
+    font-family : 'Merriweather' , serif;
+}
+
+h1 {
+    color : # 66BFBF ;
+    tamaño de fuente : 5.625 rem ;
+    margen : 50 px automático 0 automático;
+    font-family : 'Sacramento' , cursiva;
+}
+
+h2 {
+    color : # 66BFBF ;
+    font-family : 'Montserrat' , sans-serif;
+    tamaño de fuente : 2.5 rem ;
+    peso de fuente : normal;
+    relleno inferior : 10 px ;
+}
+
+h3 {
+    color : # 11999E ;
+    font-family : 'Montserrat' , sans-serif;
+}
+
+p {
+    altura de línea : 2 ;
+}
+
+h {
+    borde : punteado # EAF6F6  6 px ;
+    borde inferior : ninguno;
+    ancho : 4 % ;
+    margen : 100 px automático;
+}
+
+un {
+    color : # 11999E ;
+    font-family : 'Montserrat' , sans-serif;
+    margen : 10 px  20 px ;
+    decoración de texto : ninguno;
+}
+
+a : desplazarse {
+    color : # EAF6F6 ;
+}
+
+. contenedorSuperior {
+    color de fondo : # E4F9F5 ;
+    posición : relativa;
+    relleno superior : 100 px ;
+}
+
+. contenedorMedio {
+    margen : 100 px  0 ;
+}
+
+. contenedorInferior {
+    color de fondo : # 66BFBF ;
+    relleno : 50 px  0  20 px ;
+}
+
+. filaHabilidades {
+    ancho : 50 % ;
+    margen : 100 px automático 100 px automático;
+    alinear texto : izquierda;
+}
+
+. pro {
+    decoración de texto : subrayado;
+}
+
+. introducción {
+    ancho : 30 % ;
+    margen : auto;
+}
+
+. mensajeContacto {
+    ancho : 40 % ;
+    margen : 40 px automático 60 px ;
+}
+
+. derechos de autor {
+    color : # EAF6F6 ;
+    tamaño de fuente : 0,75 rem ;
+    relleno : 20 px  0 ;
+}
+
+. nubeSuperior {
+    posición : absoluta;
+    derecha : 300 px ;
+    arriba : 40 px ;
+}
+
+. nubeInferior {
+    posición : absoluta;
+    izquierda : 250 px ;
+    abajo : 300 px ;
+}
+
+. codigoImg {
+    ancho : 25 % ;
+    flotador : izquierda;
+    margen : 30 px ;
+}
+
+. editorial {
+    ancho : 25 % ;
+    flotador : derecho;
+    margen : 30 px ;
+}
+
+. btn {
+    fondo : # 11CDD4 ;
+    imagen de fondo : -webkit-linear-gradient (arriba ,  # 11CDD4 ,  # 11999E );
+    imagen de fondo : -moz-linear-gradient (arriba ,  # 11CDD4 ,  # 11999E );
+    imagen de fondo : -ms-linear-gradient (arriba ,  # 11CDD4 ,  # 11999E );
+    imagen de fondo : -o-linear-gradient (arriba ,  # 11CDD4 ,  # 11999E );
+    imagen de fondo : gradiente lineal (hacia abajo ,  # 11CDD4 ,  # 11999E );
+    -webkit-border-radius : 8 px ;
+    -moz-border-radius : 8 px ;
+    radio de borde : 8 px ;
+    color : # FFFFFF ;
+    font-family : 'Montserrat' , sans-serif;
+    tamaño de fuente : 20 px ;
+    relleno : 20 px ;
+    borde : sólido # 337FED  0 px ;
+    decoración de texto : ninguno;
+    pantalla : bloque en línea;
+    cursor : puntero;
+    alinear texto : centro;
+}
+    
+. btn : hover {
+    borde : sólido # 337FED  0 px ;
+    fondo : # 30E3CD ;
+    imagen de fondo : -webkit-linear-gradient (arriba ,  # 30E3CD ,  # 2DC4AD );
+    imagen de fondo : -moz-linear-gradient (arriba ,  # 30E3CD ,  # 2DC4AD );
+    imagen de fondo : -ms-linear-gradient (arriba ,  # 30E3CD ,  # 2DC4AD );
+    imagen de fondo : -o-linear-gradient (arriba ,  # 30E3CD ,  # 2DC4AD );
+    imagen de fondo : gradiente lineal (hacia abajo ,  # 30E3CD ,  # 2DC4AD );
+    -webkit-border-radius : 8 px ;
+    -moz-border-radius : 8 px ;
+    radio de borde : 8 px ;
+    decoración de texto : ninguno;
+}
